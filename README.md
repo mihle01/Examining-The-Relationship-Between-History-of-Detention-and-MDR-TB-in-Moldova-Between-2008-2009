@@ -1,6 +1,6 @@
 # Examining-The-Relationship-Between-History-of-Detention-and-MDR-TB-in-Moldova-Between-2008-2009
 
-This is my Integrated Learning Experience (ILE) project in completion of my MPH graudation requirements where I analyzed the relationship between detention and multi-drug resistant TB (MDR-TB) using data from a large database of notified TB cases in Moldova between 2008-2009 containing 11,687 cases observations and 218 variables.
+This is my Integrated Learning Experience (ILE) project in completion of my MPH graudation requirements where I analyzed the relationship between detention and multi-drug resistant TB (MDR-TB) using data from a large database of notified TB cases in Moldova between 2008-2009 containing 11,687 cases and 218 variables.
 
 Data Preparation:
 - Imported original excel dataset into SAS
